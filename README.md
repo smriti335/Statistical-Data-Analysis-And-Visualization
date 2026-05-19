@@ -1,4 +1,5 @@
-Overview
+Statistical Data Analysis & Visualization
+overview
 
 This project focuses on statistical analysis and data visualization using Excel and Google Sheets on 3 datasets containing 1000+ records. The project applies statistical techniques and probability concepts to identify patterns, relationships, and insights from structured datasets.
 
